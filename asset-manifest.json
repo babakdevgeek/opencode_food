@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/opencode_food/static/css/main.288a3939.css",
-    "main.js": "/opencode_food/static/js/main.1a791e61.js",
+    "main.js": "/opencode_food/static/js/main.47bde7fd.js",
     "index.html": "/opencode_food/index.html",
     "main.288a3939.css.map": "/opencode_food/static/css/main.288a3939.css.map",
-    "main.1a791e61.js.map": "/opencode_food/static/js/main.1a791e61.js.map"
+    "main.47bde7fd.js.map": "/opencode_food/static/js/main.47bde7fd.js.map"
   },
   "entrypoints": [
     "static/css/main.288a3939.css",
-    "static/js/main.1a791e61.js"
+    "static/js/main.47bde7fd.js"
   ]
 }
